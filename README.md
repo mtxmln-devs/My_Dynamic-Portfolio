@@ -1,19 +1,14 @@
 # 🗂️ My_Dynamic-Portfolio
-**Mark Laurence Taway** — Full Stack Developer  
-📍 Pili, Camarines Sur, Philippines | 📧 matttaway11@gmail.com | 📞 +63 927 035 4239
-
----
-
 ## 📌 Overview
-
 A fully dynamic, database-driven personal portfolio website built with **PHP**, **MySQL**, and vanilla **HTML/CSS/JavaScript**. Features a public-facing portfolio page and a secure admin dashboard for managing all content — no manual code editing required.
 
-This project was submitted as a Final Project for **BSIT 3C** at **Camarines Sur Polytechnic Colleges (CSPC)**.
-
 ---
 
-## ✨ Features
+![image alt](https://github.com/mtxmln-devs/My_Dynamic-Portfolio/blob/dea235edfe31d7fd32d4cd7e86c5a05d6fd35b20/about.png)
 
+
+
+## ✨ Features
 ### 🌐 Public Portfolio
 - Animated hero section with profile photo
 - Skill bars with animated progress indicators
