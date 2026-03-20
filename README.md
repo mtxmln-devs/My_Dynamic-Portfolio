@@ -60,7 +60,9 @@ FinalProject_BSIT3C_Taway/
 │   ├── manage_personal_info.php    # Personal Info Management
 │   ├── manage_projects.php         # Projects Management
 │   └── manage_skills.php           # Skills Management
+|
 ├── db_connect.php                  # Database Connection & Helper Functions
+├── about.png                       # Display photo GitHub
 ├── index.php                       # Public Portfolio Page
 ├── style.css                       # Public Portfolio Styles
 ├── script.js                       # Public Portfolio Scripts
