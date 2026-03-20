@@ -200,7 +200,4 @@ Key pages:
 
 ---
 
-## 📄 License
 
-This project was created for academic purposes as a final project submission for **BSIT 3C** at **Camarines Sur Polytechnic Colleges**.  
-© 2025 Mark Laurence Taway. All Rights Reserved.
