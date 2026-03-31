@@ -2,12 +2,10 @@
 ## 📌 Overview
 A fully dynamic, database-driven personal portfolio website built with **PHP**, **MySQL**, and vanilla **HTML/CSS/JavaScript**. Features a public-facing portfolio page and a secure admin dashboard for managing all content — no manual code editing required.
 
----
 
 ![image alt](https://github.com/mtxmln-devs/My_Dynamic-Portfolio/blob/dea235edfe31d7fd32d4cd7e86c5a05d6fd35b20/about.png)
 
 
---- 
 
 <div align="center">
     <img src= "https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
