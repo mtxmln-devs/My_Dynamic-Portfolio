@@ -6,7 +6,13 @@ A fully dynamic, database-driven personal portfolio website built with **PHP**, 
 
 ![image alt](https://github.com/mtxmln-devs/My_Dynamic-Portfolio/blob/dea235edfe31d7fd32d4cd7e86c5a05d6fd35b20/about.png)
 
-
+<div align="center">
+    <img src= "https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div>
 
 ## ✨ Features
 ### 🌐 Public Portfolio
